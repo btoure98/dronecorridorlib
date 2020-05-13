@@ -5,8 +5,6 @@ vision_lib/draw.py
 vision_lib/filtering.py
 vision_lib/linedetector.py
 vision_lib/optical_flow.py
-vision_lib/test_webcam.py
-vision_lib/test_webcam_optflow.py
 vision_lib/vanishing_point.py
 vision_lib.egg-info/PKG-INFO
 vision_lib.egg-info/SOURCES.txt
